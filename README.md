@@ -46,3 +46,7 @@ Reads byte code stream and executes the program.
 
 - http://cs.fit.edu/~ryan/java/language/java-data.html
 - Comparison to C/C++: http://softpixel.com/~cwright/programming/datatypes.java.php
+
+## Logic in Java
+
+- http://codingbat.com/doc/java-if-boolean-logic.html
