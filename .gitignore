@@ -1,4 +1,5 @@
 out/
-*/.idea/workspace.xml
-*/.idea/tasks.xml
-*.iws
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/*.iws
+.idea/vcs.xml
