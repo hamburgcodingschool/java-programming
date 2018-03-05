@@ -32,3 +32,17 @@ Verifies if byte code is valid for execution.
 
 #### Interpreter
 Reads byte code stream and executes the program.
+
+## Primitive Data Types
+
+**`int`**  
+**`boolean`**  
+**`float`**  
+**`double`**  
+**`byte`**  
+**`long`**  
+**`short`**  
+**`char`**  
+
+- http://cs.fit.edu/~ryan/java/language/java-data.html
+- Comparison to C/C++: http://softpixel.com/~cwright/programming/datatypes.java.php
