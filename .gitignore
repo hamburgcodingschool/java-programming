@@ -3,3 +3,4 @@ out/
 .idea/tasks.xml
 .idea/*.iws
 .idea/vcs.xml
+.idea/uiDesigner.xml
