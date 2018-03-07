@@ -1,4 +1,4 @@
-package com.hamburgcodingschool;
+package com.hamburgcodingschool.session1;
 
 import java.util.Scanner;
 
