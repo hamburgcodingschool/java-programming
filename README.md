@@ -50,3 +50,14 @@ Reads byte code stream and executes the program.
 ## Logic in Java
 
 - http://codingbat.com/doc/java-if-boolean-logic.html
+
+## Java Code Style
+
+- https://google.github.io/styleguide/javaguide.html
+
+## Access Modifiers
+
+**`public`**: can be accessed from any other class  
+**`private`**: can only be accessed within the declared class itself  
+**`protected`**: can be accessed within declared class and subclasses  
+**(no modifier)**: *package-private*: can only be accessed withing the package of this class  
