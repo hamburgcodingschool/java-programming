@@ -1,4 +1,6 @@
-package com.hamburgcodingschool.session3;
+package com.hamburgcodingschool.session3.pets;
+
+import com.hamburgcodingschool.session3.pets.Dog;
 
 public class GoldenRetriever extends Dog {
 

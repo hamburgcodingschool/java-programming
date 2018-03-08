@@ -1,4 +1,9 @@
-package com.hamburgcodingschool.session3;
+package com.hamburgcodingschool.session3.pets;
+
+import com.hamburgcodingschool.session3.pets.Cat;
+import com.hamburgcodingschool.session3.pets.Dalmatian;
+import com.hamburgcodingschool.session3.pets.GoldenRetriever;
+import com.hamburgcodingschool.session3.pets.Pet;
 
 import java.util.ArrayList;
 import java.util.List;

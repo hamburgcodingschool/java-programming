@@ -1,14 +1,14 @@
-package com.hamburgcodingschool.session3;
+package com.hamburgcodingschool.session3.company;
 
 import com.hamburgcodingschool.session2.Employee;
 
 import java.util.List;
 
-public class TeamLeader extends Employee {
+public class Manager extends Employee {
 
     private List<Employee> team;
 
-    public TeamLeader(String firstName, String lastName, List<Employee> team) {
+    public Manager(String firstName, String lastName, List<Employee> team) {
         super(firstName, lastName);
         this.team = team;
     }

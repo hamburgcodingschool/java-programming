@@ -1,4 +1,4 @@
-package com.hamburgcodingschool.session3;
+package com.hamburgcodingschool.session3.company;
 
 public class FrontendProgrammer extends Programmer {
     public FrontendProgrammer(String firstName, String lastName) {

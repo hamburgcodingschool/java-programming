@@ -1,4 +1,4 @@
-package com.hamburgcodingschool.session3;
+package com.hamburgcodingschool.session3.pets;
 
 public class Dalmatian extends Dog {
 

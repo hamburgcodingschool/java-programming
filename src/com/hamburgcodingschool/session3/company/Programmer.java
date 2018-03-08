@@ -1,4 +1,4 @@
-package com.hamburgcodingschool.session3;
+package com.hamburgcodingschool.session3.company;
 
 import com.hamburgcodingschool.session2.Employee;
 
