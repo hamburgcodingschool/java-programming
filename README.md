@@ -84,7 +84,7 @@ Reads byte code stream and executes the program.
 **Java Server Pages** (JSP): server-side components, using Java EE to deliver content in HTML pages, embedded in HTML files like `<% ... %>`  
 **Spring**: a framework for Java applications, typically used for enterprise server applications, also e.g. REST services  
 
-## Database Connectors
+### Database Connectors
 
 **JDBC** (Java DataBase Connector): provides access to SQL databases  
 **Hibernate**: ORM (Object-Relational Mapping) maps relational databases to a Java object model  
