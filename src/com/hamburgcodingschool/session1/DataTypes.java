@@ -10,5 +10,6 @@ public class DataTypes {
         System.out.println("Data: " + negative);
 
         // TODO: boolean, float, double, String
+        // TODO: byte, long, short, char
     }
 }
