@@ -9,5 +9,8 @@ public class Input {
         Scanner scanner = new Scanner(System.in);
         String input = scanner.next();
         System.out.println("Hello " + input + "!");
+
+        // Alternative:
+        // System.out.println(String.format("Hello %s!", input));
     }
 }
