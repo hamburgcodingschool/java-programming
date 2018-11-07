@@ -16,14 +16,7 @@ public class Maps {
         int legalDepartment = departments.get("Legal");
         System.out.println(legalDepartment);
 
-//        for (String department : departments.keySet()) {
-//            System.out.println(department + ": " + departments.get(department));
-//        }
-
-        for (Map.Entry<String, Integer> entry : departments.entrySet()) {
-            String department = entry.getKey();
-            int employees = entry.getValue();
-            System.out.println(department + ": " + employees);
-        }
+        // TODO: iterate over keySet
+        // TODO: iterate over entrySet
     }
 }
