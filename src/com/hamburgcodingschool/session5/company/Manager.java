@@ -1,6 +1,4 @@
-package com.hamburgcodingschool.session3.company;
-
-import com.hamburgcodingschool.session2.Employee;
+package com.hamburgcodingschool.session5.company;
 
 import java.util.List;
 
@@ -15,5 +13,10 @@ public class Manager extends Employee {
 
     public List<Employee> getTeam() {
         return team;
+    }
+
+    @Override
+    public boolean isResponsibleForTeam() {
+        return true;
     }
 }

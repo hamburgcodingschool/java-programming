@@ -1,6 +1,6 @@
-package com.hamburgcodingschool.session4.interfaces;
+package com.hamburgcodingschool.session5.interfaces;
 
-import com.hamburgcodingschool.session4.pets.Pet;
+import com.hamburgcodingschool.session5.pets.Pet;
 
 public class Dog extends Pet implements Trainable {
 

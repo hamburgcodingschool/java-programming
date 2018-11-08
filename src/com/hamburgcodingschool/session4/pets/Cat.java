@@ -6,8 +6,12 @@ public class Cat extends Pet {
         super(name);
     }
 
+    public void scratch() {
+        System.out.println("SCRATCH!!!");
+    }
+
     @Override
     public void pet() {
-        System.out.println("purrrrrrrrrrrrr...");
+        System.out.println("purrrrrrrrrrrrr....");
     }
 }

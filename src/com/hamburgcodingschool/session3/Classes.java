@@ -1,4 +1,4 @@
-package com.hamburgcodingschool.session2;
+package com.hamburgcodingschool.session3;
 
 public class Classes {
 

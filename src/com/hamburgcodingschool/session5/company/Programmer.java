@@ -1,11 +1,16 @@
-package com.hamburgcodingschool.session3.company;
+package com.hamburgcodingschool.session5.company;
 
-import com.hamburgcodingschool.session2.Employee;
+import com.hamburgcodingschool.session4.company.Code;
 
 public class Programmer extends Employee {
 
     public Programmer(String firstName, String lastName) {
         super(firstName, lastName);
+    }
+
+    @Override
+    public boolean isResponsibleForTeam() {
+        return false;
     }
 
     public Code writeProgram() {

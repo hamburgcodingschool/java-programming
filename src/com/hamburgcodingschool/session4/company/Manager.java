@@ -1,5 +1,7 @@
 package com.hamburgcodingschool.session4.company;
 
+import com.hamburgcodingschool.session3.Employee;
+
 import java.util.List;
 
 public class Manager extends Employee {
@@ -13,10 +15,5 @@ public class Manager extends Employee {
 
     public List<Employee> getTeam() {
         return team;
-    }
-
-    @Override
-    public boolean isResponsibleForTeam() {
-        return true;
     }
 }

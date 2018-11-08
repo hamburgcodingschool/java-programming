@@ -1,4 +1,4 @@
-package com.hamburgcodingschool.session4.interfaces;
+package com.hamburgcodingschool.session5.interfaces;
 
 public interface Trainable {
 

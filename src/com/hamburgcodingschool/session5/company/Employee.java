@@ -1,6 +1,6 @@
-package com.hamburgcodingschool.session2;
+package com.hamburgcodingschool.session5.company;
 
-public class Employee {
+public abstract class Employee {
 
     private String firstName;
     private String lastName;
@@ -17,4 +17,6 @@ public class Employee {
     public String getLastName() {
         return lastName;
     }
+
+    public abstract boolean isResponsibleForTeam();
 }

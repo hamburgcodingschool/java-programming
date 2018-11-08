@@ -3,6 +3,7 @@ package com.hamburgcodingschool.session2;
 public class Loops {
 
     public static void main(String[] args) {
+
         for (int i = 0; i < 100; i++) {
             System.out.println(i);
         }
@@ -18,6 +19,7 @@ public class Loops {
     }
 
     // TODO: method printNumber(): "Counted " + i + " numbers"
+    // Counted 28 numbers
     // TODO: method loopForwards(): loop 100 forwards (for)
     // TODO: method loopBackward(): loop 100 backwards (while, just for exercise)
     // TODO: method readDirection():

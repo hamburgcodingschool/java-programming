@@ -1,4 +1,4 @@
-package com.hamburgcodingschool.session3.company;
+package com.hamburgcodingschool.session4.company;
 
 public class AndroidProgrammer extends Programmer {
     public AndroidProgrammer(String firstName, String lastName) {

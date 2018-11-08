@@ -1,6 +1,6 @@
-package com.hamburgcodingschool.session3.pets;
+package com.hamburgcodingschool.session5.pets;
 
-public class Pet {
+public abstract class Pet {
 
     private String name;
 
@@ -12,7 +12,5 @@ public class Pet {
         return name;
     }
 
-    public void pet() {
-        System.out.println("Happy!");
-    }
+    public abstract void pet();
 }

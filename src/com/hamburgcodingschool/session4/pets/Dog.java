@@ -1,4 +1,4 @@
-package com.hamburgcodingschool.session3.pets;
+package com.hamburgcodingschool.session4.pets;
 
 public class Dog extends Pet {
 
