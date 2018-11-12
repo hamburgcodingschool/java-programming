@@ -1,11 +1,9 @@
 package com.hamburgcodingschool.session4.company;
 
-import com.hamburgcodingschool.session3.Employee;
-
-public class Programmer extends Employee {
+public class Programmer {
 
     public Programmer(String firstName, String lastName) {
-        super(firstName, lastName);
+        // TODO: do we have to copy everything?
     }
 
     public Code writeProgram() {

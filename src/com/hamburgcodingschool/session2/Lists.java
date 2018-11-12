@@ -13,6 +13,12 @@ public class Lists {
         employees.add("Stella");
         employees.add("James");
 
-        // TODO: print them all
+        for (int i = 0; i < employees.size(); i++) {
+            System.out.println(employees.get(i));
+        }
+
+        for (String employee : employees) {
+            System.out.println(employee);
+        }
     }
 }

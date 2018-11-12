@@ -4,16 +4,11 @@ import com.hamburgcodingschool.session3.Employee;
 
 import java.util.List;
 
-public class Manager extends Employee {
+public class Manager {
 
-    private List<Employee> team;
-
-    public Manager(String firstName, String lastName, List<Employee> team) {
-        super(firstName, lastName);
-        this.team = team;
+    public Manager(String firstName, String lastName) {
+        // TODO: do we have to copy everything from Employee?
     }
 
-    public List<Employee> getTeam() {
-        return team;
-    }
+
 }
