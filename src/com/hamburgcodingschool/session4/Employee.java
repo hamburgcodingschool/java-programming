@@ -2,8 +2,8 @@ package com.hamburgcodingschool.session4;
 
 public class Employee {
 
-    private String firstName;
-    private String lastName;
+    protected String firstName;
+    protected String lastName;
 
     public Employee(String firstName, String lastName) {
         this.firstName = firstName;

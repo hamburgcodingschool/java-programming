@@ -34,4 +34,11 @@ public class Department {
             System.out.println("Employee: " + employee.getName());
         }
     }
+
+    public void developSoftware() {
+        // TODO: for loop over team (Employees)
+        // if (employee instanceof Programmer) {
+        //      // TODO: write program
+        // }
+    }
 }
